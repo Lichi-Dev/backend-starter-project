@@ -1,7 +1,7 @@
 {
-  "name": "chai-backend",
+  "name": "backend-starter-file",
   "version": "1.0.0",
-  "description": "A backend revision",
+  "description": "A backend starter file",
   "type": "module",
   "main": "index.js",
   "scripts": {
