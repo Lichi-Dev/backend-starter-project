@@ -1,3 +1,3 @@
-# Chai aur backend
+# Backend Starter File
 
-This is a project for backend revision.
+This is a starter file for backend.
